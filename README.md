@@ -1,4 +1,4 @@
-# soundclound-unity
+# soundcloud-unity
 
 Want to use soundcloud comments in your unity game? look no further. soundcloud-unity interfaces with the soundcloud http api and generates a SoundCloundTrack Value Object with comments.
 
